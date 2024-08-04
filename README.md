@@ -33,3 +33,11 @@
 - Экспортируемая статистика с предложенными премиями для менеджеров.
 #### Использование
 Дашборд будет использоваться ежеквартально, чтобы заменить трудоемкий процесс анализа данных в Excel, автоматизируя и ускоряя принятие решений.
+
+
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/ivan.yakimenko/viz/__HR_/sheet8">
+    <img src="https://github.com/KaminoontY/Project_3/blob/main/Dashbord%20HR.png" alt="Telegram" width="1200">
+  </a>
+</div>
+
